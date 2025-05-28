@@ -46,6 +46,6 @@ This project is for personal and educational use. Font Awesome Pro files are inc
 
 ---
 
-**Author:** [Your Name]
+**Author:** Faosy Adebimpe
 
 Feel free to fork and use this playground for your own experiments!
