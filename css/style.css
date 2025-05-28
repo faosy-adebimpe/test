@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Calibri", Arial, Helvetica, sans-serif;
+}
+
+html {
+  font-size: 16px;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: red;
+  display: grid;
+  grid-template-rows: 1fr 8fr 1fr;
+}
+
+.nav {
+  background-color: skyblue;
+}
+
+.main {
+  background-color: rgb(62, 131, 158);
+}
+
+.footer {
+  background-color: rgb(14, 65, 85);
+}/*# sourceMappingURL=style.css.map */
